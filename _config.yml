@@ -1,0 +1,4 @@
+title_tag_text: AdLibs repertoar
+h1_tag_text: AdLibs repertoar
+
+exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
