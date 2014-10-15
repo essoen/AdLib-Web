@@ -10,4 +10,4 @@ First, [install Jekyll](http://jekyllrb.com/docs/installation/). Run the command
 ## Adding a new song
 * Edit `_includes/index.md`
 * Add pdf to `_assets`
-* Run `jekyll` and depoly `_site`
+* Run `jekyll` and deploy `_site`
